@@ -1,0 +1,24 @@
+.frame {
+  display: inline-block;
+  background-image: url('http://pngimagesfree.com/frame/Golden%20photo%20frame%20two.png');
+  background-repeat: no-repeat;
+  background-size: 303px 376px;
+}
+
+.poster {
+  margin: 54px 60px;
+}
+
+.imglink {
+  width: 50px;
+}
+
+.rating{
+  color: #c3a343;
+  -webkit-text-fill-color: transparent; 
+  background: url('http://www.theblogmarket.co/wp-content/uploads/2015/11/GOLD-11.jpg') repeat;
+  -webkit-background-clip: text;
+  background-size: 500px;
+}
+
+

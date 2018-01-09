@@ -1,0 +1,29 @@
+.frame {
+  display: inline-block;
+  background-image: url('http://pngimagesfree.com/frame/Golden%20photo%20frame%20two.png');
+  background-repeat: no-repeat;
+  background-size: 260px 328px;
+}
+
+.poster {
+  margin: 30px 40px;
+}
+
+.imglink {
+  width: 50px;
+}
+
+.sample {
+  width:18.4px;
+  height: 16.8px;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+.rating:hover {
+  color: yellow;
+  background-image: url('https://www.primaryteaching.co.uk/prodimg/B11_1_Zoom.jpg');
+
+  background-repeat: no-repeat;
+  background-size: contain
+}
